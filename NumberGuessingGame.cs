@@ -2,7 +2,7 @@
 using System;
 using System.ComponentModel;
 
-class broCode
+class sivajiGame
 {
     static void Main()
     {
